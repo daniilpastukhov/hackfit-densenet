@@ -1,1 +1,1 @@
-# hackfit-densenet
+# HackFit Densenet
